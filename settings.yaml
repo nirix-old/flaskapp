@@ -1,0 +1,5 @@
+database:
+    driver: mysql
+    user: root
+    pass: root
+    db: example
